@@ -29,6 +29,7 @@ Scope(s):
 ## Animation
 - [DOTween](https://github.com/Demigiant/dotween)
   - [Link](http://dotween.demigiant.com/download.php#download)
+- [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 
 ## Async
 - [UniTask](https://github.com/Cysharp/UniTask)    
