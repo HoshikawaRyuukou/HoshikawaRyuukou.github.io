@@ -6,7 +6,23 @@ draft: true
 tags: ["Unity"]
 ---
 
+- [[Unity] 腳本模板 | 如何創建自定義腳本模板 | Script Templates](https://www.youtube.com/watch?v=uh9bDTX9T5E)
 - [【Unity教學-Rendering】用URP提升渲染品質 | Unity基礎渲染](https://www.youtube.com/watch?v=LLwnmGInpC4)
+- [【Unity】uGUIのリビルドによるパフォーマンス低下を防ぐ方法](https://light11.hatenadiary.com/entry/2019/06/02/214125)
+- [使用Unity Cinemachine快速實現遊戲中的鏡頭跟隨功能｜Unity Cinemachine教學分享](https://delightcollab.com/programming-tpl-cinemachine-tutorial-2022/)
+- [【游戏开发教程】Unity Cinemachine快速上手，详细案例讲解](https://blog.csdn.net/linxinfa/article/details/124537415?spm=1001.2014.3001.8079)
+- [Doing basic unit testing in Unity/C#](https://www.minapecheux.com/articles/2022/01/03_doing-basic-unit-testing-in-unity-c/)
+- [2D animation in Unity - The PERFECT workflow](https://www.youtube.com/watch?v=vLDK0eHwsho)
+- [橙子SKODE](https://skode.blog.csdn.net/?type=blog)
+- [Why Animation Curves In Unity Are So Useful](https://www.youtube.com/watch?v=Nc9x0LfvJhI)
+- [壓縮](https://takap-tech.com/entry/2020/01/20/211934)
+- [Unity 年度总结：一款游戏的从0到1](https://blog.csdn.net/mahuibao01/article/details/113681486)
+- [基于Unity Audio Mixer的音效系统](https://blog.csdn.net/mahuibao01/article/details/113857193)
+- [GF框架](https://blog.csdn.net/m0_37920739/category_9877543.html)
+- [Ellan Jiang](https://github.com/EllanJiang)
+- [Clean Settings UI](https://assetstore.unity.com/packages/tools/gui/clean-settings-ui-65588)
+- [Unity I18N 小探](https://zhuanlan.zhihu.com/p/81159633)
+- [如何设计本地化组件](http://www.liuocean.com/2022/08/14/ru-he-she-ji-ben-de-hua-zu-jian/)
 
 
 
