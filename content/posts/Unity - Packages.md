@@ -37,19 +37,14 @@ Scope(s):
 "com.yourusername.yourpackage": "git+https://x-oauth-basic:<token>@<repo>?path=<folder>"
 ```
 
-
-
-
 ---
 
 ## Animation
-- [DOTween](https://github.com/Demigiant/dotween)
-  - [Link](http://dotween.demigiant.com/download.php#download)
+- [DOTween](http://dotween.demigiant.com/download.php#download)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 
 ## Async
 - [UniTask](https://github.com/Cysharp/UniTask)    
-  - openupm - com.cysharp.unitask
   - [Patterns & Practices for efficiently handling C# async/await cancel processing and timeouts](https://neuecc.medium.com/patterns-practices-for-efficiently-handling-c-async-await-cancel-processing-and-timeouts-b419ce5f69a4)
   - [精选Unity-Github开源库分享 最完美的异步操作解决方案 UniTask](https://www.bilibili.com/video/BV1NG411s7hN/?spm_id_from=333.788)
   - [C# Task 指南](http://www.liuocean.com/2022/10/11/c-task-zhi-nan/)
@@ -58,7 +53,6 @@ Scope(s):
 
 ## Debug
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
-  - openupm - com.yasirkula.ingamedebugconsole
 
 ## Dependency Injection
 - [VContainer](https://github.com/hadashiA/VContainer)  
@@ -67,25 +61,20 @@ Scope(s):
 
 ## Dialogue 
 - [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) 
-  - openupm - dev.yarnspinner.unity
-  - [Manual](https://docs.yarnspinner.dev/)
 
 ## Editor
 - [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
-  - openupm - com.dbrizov.naughtyattributes
 
 ## Google Service
 - [【Unity】Google APIs for UnityをPackage Managerで管理する](https://kingmo.jp/kumonos/unity-google-apis-for-unity-import-package-manager/)
 
 ## HotUpdate
 - [HybridCLR](https://hybridclr.doc.code-philosophy.com/)
-  - git - https://github.com/focus-creative-games/hybridclr_unity.git
 - [xLua](https://github.com/Tencent/xLua)
 
 ## Messaging 
 - [MessagePipe](https://github.com/Cysharp/MessagePipe)    
-  - openupm - com.cysharp.messagepipe
 
 ## Network
 - [MagicOnion](https://github.com/Cysharp/MagicOnion)
@@ -93,15 +82,12 @@ Scope(s):
 
 ## Persistence
 - [PlayerPrefs Editor & Utilities](https://github.com/sabresaurus/PlayerPrefsEditor)
-  - openupm - com.sabresaurus.playerprefseditor
 
 ## Resource Management
 - [YooAsset](https://github.com/tuyoogame/YooAsset)
-  - openupm - com.tuyoogame.yooasset
 
 ## Rx (Reactive Extensions)
 - [UniRx](https://github.com/neuecc/UniRx)    
-  - openupm - com.neuecc.unirx
   - [【Unity框架】UniRx精讲](https://www.bilibili.com/read/cv15236973)
 
 ## Serialization
