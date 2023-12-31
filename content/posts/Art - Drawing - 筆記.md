@@ -1,16 +1,25 @@
 ---
-title: "Unity - Package - UniTask"
+title: "Art - Drawing - 筆記"
 date: 2023-03-01 21:11:00
 draft: true
 
-tags: ["Unity"]
+tags: ["Art"]
 ---
 
-## Repo
-- [Cysharp/UniTask](https://github.com/Cysharp/UniTask)
+## Community
+- [Pinterest](https://www.pinterest.com/)
 
-## Guide
+## Channel
+- [taco1704](https://www.pixiv.net/users/70834530)
+- [hide channel【顔と体の描き方講座】](https://www.youtube.com/@hidechannel2/streams)
 
-- [【C#】async/awaitのキャンセル処理まとめ](https://qiita.com/toRisouP/items/60673e4a39319e69fbc0)
-- [UniTask 処理のタイムアウトの書き方 まとめ](https://qiita.com/toRisouP/items/69dc07ba8d1c81b0e7ac)
-- [async/awaitのキャンセル処理やタイムアウトを効率的に扱うためのパターン＆プラクティス](https://neue.cc/2022/07/13_Cancellation.html)
+## Practice
+- [Line of Action](https://line-of-action.com/)
+
+## Book
+- ミニキャラの描き方　「ちまっとかわいい」を描く基本＆表現テクニック
+
+<!-- 
+## Link
+-[how to](https://exhentai.org/tag/other:how+to)
+-->
