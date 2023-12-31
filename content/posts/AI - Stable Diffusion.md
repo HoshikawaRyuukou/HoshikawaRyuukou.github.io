@@ -38,3 +38,6 @@ tags: ["AI"]
 
 ## 案例
 - [【Stable diffusion案例教程】运用AI实现 草图→清稿→上色→3d效果全流程](https://www.bilibili.com/video/BV1Qo4y1T77V)
+
+## Extra
+- [ImgPilot](https://github.com/leptonai/imgpilot)
