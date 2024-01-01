@@ -23,6 +23,7 @@ tags: ["Unity"]
 - [老刘@开发笔记](http://blog.coolcoding.cn/)
 - [はなちるのマイノート](https://www.hanachiru-blog.com/)
 - [くものす](https://kingmo.jp/kumonos/)
+- [Yucchiy's Note](https://blog.yucchiy.com/)
 
 ## Engineering Blog
 - [REALITY｜note](https://note.com/reality_eng/)
