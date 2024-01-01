@@ -14,6 +14,7 @@ tags: ["Assets"]
 - [iconmonstr](https://iconmonstr.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [IconKitchen](https://icon.kitchen)
+- [Game-icons.net](https://game-icons.net/)
 
 ## Feature Graphics
 - [Google Play Feature Graphics](https://hotpot.ai/templates/google-play-feature-graphic)

@@ -1,29 +1,18 @@
 ---
 title: "Unity - Package - VContainer"
-date: 2023-03-01 21:11:00
+date: 2023-12-28 21:11:00
 draft: true
 
 tags: ["Unity"]
 ---
 
-VContainer 是一個 DI library
-操作細節官方手冊講得蠻清晰的，這裡不多贅述，主要紀錄學習時的難點
-
-必須要說 DI library 不是必要的
-Composition Root 被稱作窮人的 DI
-
-
-## Repo
+## Resource
 - [hadashiA/VContainer](https://github.com/hadashiA/VContainer)
+- [Doc](https://vcontainer.hadashikick.jp/)
 
-## Guide
-- [Offical](https://vcontainer.hadashikick.jp/)
-- [【Unity】DI（依存性の注入）](https://soft-rime.com/post-11249/)
+## 前述
 
-## 核心觀念
-
-### ff
-作者是不建議東西被注到 MonoBehaviour 中
+VContainer 作為一個 DI library，在其的幫助下對象之間的依賴處理方便了很多。但還是必須要說 DI library 不是必要的，最基本實現依賴注入的方式便是 Composition Root ，也被稱作窮人的 DI。這裡主要紀錄應用時的得到的一些理解
 
 ### LifetimeScope 
 - Lifetime.Singleton : 單例
@@ -32,10 +21,17 @@ Composition Root 被稱作窮人的 DI
 
 LifetimeScope 能建立樹狀結構關係，在處理依賴時從離自己最近的開始往 Parent LifetimeScope 尋找
 
-### Entry point
+
+## 應用情境 - 共用資源
+
+單例
 
 
-### 
+## 應用情境 - LifetimeScope
+
+以模組的角度來看生命週期
+
+
 
 
 
