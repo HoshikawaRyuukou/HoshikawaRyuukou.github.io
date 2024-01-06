@@ -14,7 +14,7 @@ Unity 2017.3 以上版本的提供功能，主要解決龐大的程序集編譯�
 具體內容建議閱讀 [Doc - Assembly definitions](https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html)
 
 ### Assembly-CSharp.dll
-Unity 預設整合的 dll，專案內未被劃分進自定義 Asmdef 的腳本都會被整合進 Assembly-CSharp.dll
+Unity 預設整合的 dll，專案內未被自定義 Asmdef 劃分的腳本都會被整合到 Assembly-CSharp.dll
 
 ---
 
@@ -25,7 +25,7 @@ Unity 預設整合的 dll，專案內未被劃分進自定義 Asmdef 的腳本�
 
 HybridCLR 筆者已經應用於工作環境好一陣子了(從 2.X 版本開始)，其最讓人驚豔的地方在於，過往的開發流幾乎不用更動(當然要好 Asmdef 的規劃)，僅在打包時調整一下工作流即可。
 
-其極大簡化過往麻煩且效率不彰的熱更流程。xLua 和 ILRuntime 在筆者看來最難受的事是「侵入性」極強，有時為了熱更必須將業務邏輯移到 Lua 和 ILRuntime，搞得綁手綁腳。大家也都抱怨很久了，但也沒有其他可靠方案，直到 HybridCLR 出現。
+其極大簡化過往麻煩且效率不彰的熱更流程。xLua 和 ILRuntime 在筆者看來最難受的事是「侵入性」極強，搞得綁手綁腳。大家也都抱怨很久了，但也沒有其他可靠方案，直到 HybridCLR 出現。
 
 ## 快速上手
 3.0 版本後流程優化得更順暢了，照著 [文件](https://hybridclr.doc.code-philosophy.com/#/beginner/quickstart) 可以很快地感受到其威力。
