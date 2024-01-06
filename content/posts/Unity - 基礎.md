@@ -6,6 +6,11 @@ draft: false
 tags: ["Unity"]
 ---
 
+## Set Up
+- [【游戏开发环境】Unity使用Mac电脑开发，开发环境的搭建（Mac mini M1 | VSCode | Git | 好用工具）](https://blog.csdn.net/linxinfa/article/details/124844236)
+
+---
+
 ## Analysis 
 - [Unity Optimize Your Game Using Profiler](https://sharpcoderblog.com/blog/unity-3d-how-to-use-profiler-to-optimize-your-code)
 - [Unity 手機遊戲最佳化雜談– 內建Profiling](https://www.chunfuchao.com/posts/unity-profiling-tools/)
