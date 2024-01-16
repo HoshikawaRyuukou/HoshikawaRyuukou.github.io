@@ -12,17 +12,16 @@ tags: ["Unity"]
 
 ## Addressable Frameworks
 
-Addressables 是在 AssetBundle 的基礎上對操作進行更友善的封裝，AssetBundle 有很多要小心的地方像是 :
+Addressables 是在 AssetBundle 的基礎上對操作進行更友善的封裝，AssetBundle 有很多要小心的地方
 - [AssetBundle 卸載](https://juejin.cn/post/7066814466167422989)
 
-Addressable System 主要改善幾點 :
+Addressable System 主要改善幾點
 - 透過 name/label，而是不與資源直接連結，減少因移動或重命名資產而出錯的機會。
 - 本地或是異地都可以追踪。
 - 簡化打包和依賴管理(name/label/group/catalog)。
 - 較好的記憶體管理機制(引用計數)與性能分析系統。
 
-常規操作不同 Framework 大同小異，可以從資源最多的 Addressables 做觀念入門
-- [Unity Addressables资源管理方式用起来太爽了，资源打包、加载、热更变得如此轻松（Addressable Asset System | 简称AA）](https://blog.csdn.net/linxinfa/article/details/122390621)
+不同 Framework 在常規操作上大同小異，可以從資源最多的 Addressables 做觀念入門
 - [Unity Addressables资源管理方式用起来太爽了，资源打包、加载、热更变得如此轻松（Addressable Asset System | 简称AA）](https://blog.csdn.net/linxinfa/article/details/122390621)
 - [Unity - Addressables项目总结（一）：基础工作流](https://zhuanlan.zhihu.com/p/588120058)
 - [Unity - Addressables项目总结（二）：业务需求](https://zhuanlan.zhihu.com/p/592124758)
