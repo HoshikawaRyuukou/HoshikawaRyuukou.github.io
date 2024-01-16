@@ -16,3 +16,6 @@ tags: ["Unity"]
 ## Publish
 - [Privacy policy for your game? No problem! (generate and publish)](https://www.youtube.com/watch?v=BfIWE172jj0)
 - [Publish your UNITY game on Google Play Store - 2023 guide](https://www.youtube.com/watch?v=UXl_C3ZnRLc)
+
+## Misc
+- [Library not loaded: @rpath/FBAEMKit.framework/FBAEMKit](https://github.com/facebook/facebook-ios-sdk/issues/2128#issuecomment-1332276033)

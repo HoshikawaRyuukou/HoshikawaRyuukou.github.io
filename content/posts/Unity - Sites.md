@@ -7,8 +7,7 @@ tags: ["Unity"]
 ---
 
 ## Blog
-- [游戏石匠Super](https://space.bilibili.com/69585)
-- [L's Blog](http://www.liuocean.com/tag/unity/)
+- [L's Blog](https://www.liuocean.com/)
 - [コガネブログ](https://baba-s.hatenablog.com/)
 - [渋谷ほととぎす通信](https://shibuya24.info/)
 - [きゅぶろぐ](https://blog.kyubuns.dev/)
@@ -31,6 +30,7 @@ tags: ["Unity"]
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 
 ## Channel
+- [游戏石匠Super](https://space.bilibili.com/69585)
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
 - [M Studio](https://www.youtube.com/@MSTUDIOHUB/videos)
 - [Coco Code](https://www.youtube.com/channel/UCfIiEKtakOPRPnE4iQTLvlA/videos)

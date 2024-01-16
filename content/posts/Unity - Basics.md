@@ -1,5 +1,5 @@
 ---
-title: "Unity - 基礎"
+title: "Unity - Basics"
 date: 2023-02-20 21:11:00
 draft: false
 
@@ -47,6 +47,8 @@ tags: ["Unity"]
 
 ## TextMeshPro
 - [TextMeshPro Anatomy](https://gametorrahod.com/textmeshpro-anatomy/)
+- [[Unity干货]使用TextMeshPro动态字体节省时间](https://www.bilibili.com/video/BV1oK411x7MG)
+
 
 ## UI
 - [【Unity】3つだけでいい!?覚えるべきUIアンカー](https://shibuya24.info/entry/unity-ui-anchor)

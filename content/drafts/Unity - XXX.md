@@ -29,7 +29,14 @@ tags: ["Unity"]
 - [介接Unity Ads](https://www.goostudio.tw/post/%E4%BB%8B%E6%8E%A5unity-ads?fbclid=IwAR3Oa5MaKg_cZnnd3bvMULBAUwSVy6qwft0tuY02ZIOF0ZXXSpFEPAUtcBY)
 - [The “Real” Modularization in Android](https://betterprogramming.pub/the-real-clean-architecture-in-android-modularization-e26940fd0a23)
 
-
+---
+- https://github.com/AAA1224/MaxQuest_Task_Slot_UnityProject
+- https://github.com/dreamDeveloper1203/casino-game-slot-unity
+- https://github.com/riddar/SlotsGame
+- https://github.com/KevinHa59/Unity3D-ClassicSlotMachineGame
+- https://github.com/Manurocker95/PokemonSlotMachine
+- https://github.com/soshimozi/unity-slots
+  
 
 
 ---
