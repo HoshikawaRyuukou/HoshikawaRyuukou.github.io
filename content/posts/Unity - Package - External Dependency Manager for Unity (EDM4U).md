@@ -1,5 +1,5 @@
 ---
-title: "Unity - External Dependency Manager for Unity (EDM4U)"
+title: "Unity - Package - External Dependency Manager for Unity (EDM4U)"
 date: 2023-11-08 21:11:00
 draft: false
 

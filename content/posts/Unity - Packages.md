@@ -25,18 +25,6 @@ Scope(s):
 * [Creating Custom Packages for Unity 2018.3](https://neogeek.dev/creating-custom-packages-for-unity-2018.3/)
 * [How to remodel your project for asmdef and UPM](https://gametorrahod.com/how-to-asmdef-upm/?fbclid=IwAR31P12StjzcTi9IO1vDvwWJIwaKHxIEmUQLic6K1LGElmwv6OFRqe8sVig)
 
-### Private GitHub repository
-
-* [Install Unity Package from a private GitHub repository](https://medium.com/@dasannikov/install-unity-package-from-a-private-github-repository-9a40066b335f)
-
-1. 至 GitHub  <<**帳戶設定**>>（非儲存庫設定）
-2. Developer Settings  ->  Personal Access Tokens -> Fine-Grained Tokens
-3. 生成 Token (**Read-Only Permission** for the repo **Content**).
-
-```bash 
-"com.yourusername.yourpackage": "git+https://x-oauth-basic:<token>@<repo>?path=<folder>"
-```
-
 ---
 
 ## Animation
@@ -63,15 +51,14 @@ Scope(s):
 - [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) 
 
 ## Editor
-- [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
-
-## Google Service
-- [【Unity】Google APIs for UnityをPackage Managerで管理する](https://kingmo.jp/kumonos/unity-google-apis-for-unity-import-package-manager/)
 
 ## HotUpdate
 - [HybridCLR](https://hybridclr.doc.code-philosophy.com/)
 - [xLua](https://github.com/Tencent/xLua)
+
+## Localization
+- [Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504)
 
 ## Messaging 
 - [MessagePipe](https://github.com/Cysharp/MessagePipe)    

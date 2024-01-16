@@ -1,9 +1,9 @@
 ---
-title: "Unity - Package Manager"
+title: "Unity - Package Manager - Sample Workflow"
 date: 2023-04-22 21:11:00
 draft: false
 
-tags: ["Unity"]
+tags: ["Unity", "UPM"]
 ---
 
 ## Package Samples
