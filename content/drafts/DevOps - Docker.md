@@ -1,7 +1,7 @@
 ---
 title: "DevOps - Docker"
 date: 2023-07-29 20:11:00
-draft: false
+draft: true
 
 tags: ["DevOps", "Docker"]
 ---
