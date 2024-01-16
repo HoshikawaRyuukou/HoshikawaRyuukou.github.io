@@ -24,17 +24,20 @@ tags: ["Unity"]
 - [はなちるのマイノート](https://www.hanachiru-blog.com/)
 - [くものす](https://kingmo.jp/kumonos/)
 - [Yucchiy's Note](https://blog.yucchiy.com/)
-
-## Engineering Blog
 - [REALITY｜note](https://note.com/reality_eng/)
+- [Mirrativ Tech Blog](https://tech.mirrativ.stream/)
 
 ## Learning
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 
 ## Channel
-- [Unity](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg/videos)
-- [Unity Japan](https://www.youtube.com/@unity_japan)
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
 - [M Studio](https://www.youtube.com/@MSTUDIOHUB/videos)
 - [Coco Code](https://www.youtube.com/channel/UCfIiEKtakOPRPnE4iQTLvlA/videos)
-- 
+
+## Events
+- [Unity Meetup](https://meetup.unity3d.jp/jp/)
+- [Unity Advent Calendar](https://qiita.com/advent-calendar/2023/unity)
+
+## Community
+- [unityroom](https://unityroom.com/)
