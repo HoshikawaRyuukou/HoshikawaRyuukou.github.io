@@ -95,7 +95,7 @@ catch (OOXXException ex)
 ### Result
 
 ## Keywords
-* Exception as control flow :warning:
+* Exception as control flow ⚠️
 * Exception/Error Handling
 * Business Exception
 

@@ -6,7 +6,7 @@ draft: false
 tags: ["Unity", "Mac"]
 ---
 
-:warning: 指令操作會有過時/版本問題不在以下例出
+⚠️ 指令操作會有過時/版本問題不在以下例出
 
 ## VSCode
 
@@ -24,4 +24,4 @@ tags: ["Unity", "Mac"]
 7. 移除 CocoaPods | [ref](https://blog.csdn.net/feelinghappy/article/details/111478615)
 8. 安裝 CocoaPods
 
-- :warning: 目前會有 VSCode 未完全關閉又重啟而導致 dotnet sdk 配置失效的狀況
+- ⚠️ 目前會有 VSCode 未完全關閉又重啟而導致 dotnet sdk 配置失效的狀況
