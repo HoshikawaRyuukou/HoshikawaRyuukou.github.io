@@ -16,5 +16,5 @@ tags: ["Unity", "UPM"]
 2. **剪下貼上**至 ProjrctRoot\Packages 即可
 
 ## Ref
-- [How to modify Unity packages using custom code and files? *[and also export custom package?]](https://forum.unity.com/threads/how-to-modify-unity-packages-using-custom-code-and-files-and-also-export-custom-package.799170/)
+- [How can I modify built-in packages?](https://support.unity.com/hc/en-us/articles/9113460764052-How-can-I-modify-built-in-packages-)
 - [Unity - 如何修改一个 Package 或是如何将 Package Local化](https://blog.csdn.net/linjf520/article/details/125738218)

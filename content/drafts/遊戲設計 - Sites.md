@@ -29,3 +29,6 @@ tags: ["Game Design"]
 
 ## 企劃
 - [遊戲企劃書範例：末日審判](https://sloanwang.wordpress.com/2012/05/25/%E9%81%8A%E6%88%B2%E4%BC%81%E5%8A%83%E6%9B%B8%E7%AF%84%E4%BE%8B%EF%BC%9A%E6%9C%AB%E6%97%A5%E5%AF%A9%E5%88%A4/?fbclid=IwAR09JDax2z_l-wyQfxEoIYSl6mUEHoDVrby6ZJsvDQy57bpHIg9vYbeTcjo)
+
+## 整合
+- [從第一天就開始玩遊戲：談遊戲開發時的持續整合與發佈](https://docs.google.com/presentation/d/e/2PACX-1vQk8RfZxqA4KlRdO_EKyL7x7Fk3asRU4RhMS53WSGzjWxBkq5T0yfxzloCJ7_5oO-CBYzfca4_aQy3q/pub?slide=id.p)
