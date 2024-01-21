@@ -19,11 +19,12 @@ Scope(s):
 ```
 3. Package manager -> Packages: My Registries -> Install
 
-* [Unity中 .asmdef文件的作用](https://zhuanlan.zhihu.com/p/139090680)
-* [使用OpenUPM发布自己的Unity项目](https://zhuanlan.zhihu.com/p/146565975)
-* [开发Unity PackageManager 插件包](https://www.jianshu.com/p/153841d65846)
-* [Creating Custom Packages for Unity 2018.3](https://neogeek.dev/creating-custom-packages-for-unity-2018.3/)
-* [How to remodel your project for asmdef and UPM](https://gametorrahod.com/how-to-asmdef-upm/?fbclid=IwAR31P12StjzcTi9IO1vDvwWJIwaKHxIEmUQLic6K1LGElmwv6OFRqe8sVig)
+- [Unity中 .asmdef文件的作用](https://zhuanlan.zhihu.com/p/139090680)
+- [使用OpenUPM发布自己的Unity项目](https://zhuanlan.zhihu.com/p/146565975)
+- [开发Unity PackageManager 插件包](https://www.jianshu.com/p/153841d65846)
+- [Creating Custom Packages for Unity 2018.3](https://neogeek.dev/creating-custom-packages-for-unity-2018.3/)
+- [How to remodel your project for asmdef and UPM](https://gametorrahod.com/how-to-asmdef-upm/?fbclid=IwAR31P12StjzcTi9IO1vDvwWJIwaKHxIEmUQLic6K1LGElmwv6OFRqe8sVig)
+- [【Unity】Package Manager活用術](https://annulusgames-lab.blogspot.com/2023/01/unity-package-manager.html)
 
 ---
 

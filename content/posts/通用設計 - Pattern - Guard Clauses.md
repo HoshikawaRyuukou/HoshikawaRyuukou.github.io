@@ -28,4 +28,3 @@ tags: ["Common Design", "Pattern"]
 - [Implementation Patterns: Guard Clause](http://teddy-chen-tw.blogspot.com/2012/05/implementation-patterns-guard-clause.html)
 - [GuardClauses](https://github.com/ardalis/GuardClauses)
 - [Stop using trivial Guard Clauses! Try this instead](https://codeopinion.com/stop-using-trivial-guard-clauses-try-this-instead/) 
-
