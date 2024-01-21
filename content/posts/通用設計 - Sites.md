@@ -1,5 +1,5 @@
 ---
-title: "通用設計 - 設計原則"
+title: "通用設計 - Sites"
 date: 2023-01-02 21:05:00
 draft: false
 

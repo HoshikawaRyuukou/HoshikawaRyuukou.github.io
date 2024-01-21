@@ -6,6 +6,9 @@ draft: false
 tags: ["Art"]
 ---
 
+## 新手村
+- [给画画爱好者的入门经验分享，当初有人告诉我该多好！](https://www.youtube.com/watch?v=VdLLdRPhvoA)
+
 ## Community
 - [Pinterest](https://www.pinterest.com/)
 

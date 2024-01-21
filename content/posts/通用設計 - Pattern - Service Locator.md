@@ -3,7 +3,7 @@ title: "通用設計 - Pattern - Service Locator"
 date: 2023-06-28 20:05:00
 draft: false
 
-tags: ["Common Design"]
+tags: ["Common Design", "Pattern"]
 ---
 
 ## 前述

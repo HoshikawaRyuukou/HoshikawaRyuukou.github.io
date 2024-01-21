@@ -1,14 +1,14 @@
 ---
-title: "通用設計 - Data Transfer Object (DTO)"
+title: "通用設計 - Pattern - Data Transfer Object (DTO)"
 date: 2022-12-11 21:11:00
 draft: false
 
-tags: ["Common Design"]
+tags: ["Common Design", "Pattern"]
 ---
 
 ## 什麼是 DTO？
 
-Data Transfer Object (數據傳輸對象) 是定義如何在應用程序之間發送數據的對象。它僅用於發送和接收數據，本身不包含任何邏輯。
+Data Transfer Object (數據傳輸對象) 是定義如何在應用程序之間發送數據的對象。它僅用於發送和接收數據，本身不包含任何業務邏輯。
 
 ## 為什麼使用 DTO？
 

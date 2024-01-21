@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Inversion of Control (IoC)"
+title: "通用設計 - Principle - Inversion of Control (IoC)"
 date: 2023-05-05 20:05:00
 draft: false
 
-tags: ["Common Design"]
+tags: ["Common Design", "Principle"]
 ---
 
 ## 反轉了什麼 ?

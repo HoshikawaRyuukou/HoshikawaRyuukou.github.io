@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Navigation"
+title: "通用設計 - Architecture - Navigation"
 date: 2022-11-16 21:11:00
 draft: false
 
-tags: ["Common Design"]
+tags: ["Common Design", "Architecture"]
 ---
 
 以下 Feature 指的是一個功能獨立的模組，Feature A 將簡稱 A。
