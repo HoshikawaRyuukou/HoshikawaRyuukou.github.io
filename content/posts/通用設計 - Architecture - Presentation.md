@@ -54,7 +54,7 @@ AppScene -> CharaWindow -> CharaInfoScreen
 
 AppScene -> CharaWindow -> CharaInfoScreen
          -> StoreWindow -> StuffInfoScreen
-                        ->
+                        -> StuffBuyScreen
 
 
 
