@@ -22,6 +22,8 @@ tags: ["Assets"]
 ## Font
 - [中文免費字體](https://mrmad.com.tw/tag/%E4%B8%AD%E6%96%87%E5%85%8D%E8%B2%BB%E5%AD%97%E9%AB%94)
 - [Google Fonts](https://fonts.google.com/)
+- [2022/0113更新# 36個合法免費高品質字體](https://forum.gamer.com.tw/C.php?bsn=60076&snA=3906436)
+- [fontget](https://www.fontget.com/)
 
 ## Audio
 - [魔王魂](https://maou.audio/)
