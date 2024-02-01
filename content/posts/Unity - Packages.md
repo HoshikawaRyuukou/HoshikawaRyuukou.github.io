@@ -1,6 +1,6 @@
 ---
 title: "Unity - Packages"
-date: 2023-08-03 21:11:00
+date: 2024-01-28 21:11:00
 draft: false
 
 tags: ["Unity"]
@@ -29,7 +29,6 @@ Scope(s):
 ---
 
 ## Animation
-- [DOTween](http://dotween.demigiant.com/download.php#download)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 
 ## Async
@@ -56,17 +55,15 @@ Scope(s):
 
 ## HotUpdate
 - [HybridCLR](https://hybridclr.doc.code-philosophy.com/)
-- [xLua](https://github.com/Tencent/xLua)
 
 ## Localization
 - [Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504)
 
+## Media
+- [UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera)
+
 ## Messaging 
 - [MessagePipe](https://github.com/Cysharp/MessagePipe)    
-
-## Network
-- [MagicOnion](https://github.com/Cysharp/MagicOnion)
-- [Mirror](https://github.com/MirrorNetworking/Mirror)
 
 ## Persistence
 - [PlayerPrefs Editor & Utilities](https://github.com/sabresaurus/PlayerPrefsEditor)
@@ -81,6 +78,9 @@ Scope(s):
 ## Serialization
 - [Newtonsoft.Json](https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-official-via-UPM)
   - git - com.unity.nuget.newtonsoft-json
+
+## Sharing
+- [Unity Native Share Plugin](https://github.com/yasirkula/UnityNativeShare)
 
 ## State Machine
 - [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM)

@@ -7,16 +7,20 @@ tags: ["Unity"]
 ---
 
 
- module Navigator
 
+
+feature navigator
 - Jump
-- Stack (focus/unfocus)
-- Modal
+- Push/Pop (focus/unfocus)
 
-module
+feature Control
 - init
 - enter
 - unfocus
 - focus
 - exit
+
+Feature 有生命週期
+Component 沒有生命週期 生命週期由 Feature 決定
+
 
