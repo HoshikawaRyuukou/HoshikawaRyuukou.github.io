@@ -42,13 +42,15 @@ tags: ["Unity"]
 - [What are EditorBuildSettings config objects used for or how can I use them?](https://forum.unity.com/threads/what-are-editorbuildsettings-config-objects-used-for-or-how-can-i-use-them.712031/)
 - [EditorBuildSettings Example](https://docs.unity.cn/cn/current/ScriptReference/EditorBuildSettings.TryGetConfigObject.html)
 
+## Material
+- [Unity中，UI反向Mask效果（图片挖洞）](https://www.jianshu.com/p/3df37c726530)
+
 ## Screen
 - [How to capture the screen in Unity (3 methods)](https://gamedevbeginner.com/how-to-capture-the-screen-in-unity-3-methods/)
 
 ## TextMeshPro
 - [TextMeshPro Anatomy](https://gametorrahod.com/textmeshpro-anatomy/)
 - [[Unity干货]使用TextMeshPro动态字体节省时间](https://www.bilibili.com/video/BV1oK411x7MG)
-
 
 ## UI
 - [【Unity】3つだけでいい!?覚えるべきUIアンカー](https://shibuya24.info/entry/unity-ui-anchor)
