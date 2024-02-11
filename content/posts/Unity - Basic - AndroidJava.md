@@ -1,6 +1,6 @@
 ---
 title: "Unity - Basic - AndroidJNIModule"
-date: 2024-02-25 21:11:00
+date: 2024-01-28 21:11:00
 draft: false
 
 tags: ["Unity", Android]
@@ -11,7 +11,7 @@ tags: ["Unity", Android]
 這次的業務需求是
 > 將 Google Play Install Referrer 接入 Unity
 
-目前使用到 AndroidJNIModule 中的
+目前有使用到 AndroidJNIModule 中的
 - AndroidJavaClass
 - AndroidJavaObject
 - AndroidJavaProxy
