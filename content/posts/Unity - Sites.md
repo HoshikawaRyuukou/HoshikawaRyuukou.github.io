@@ -27,14 +27,16 @@ tags: ["Unity"]
 - [Mirrativ Tech Blog](https://tech.mirrativ.stream/)
 - [Lightjiao的博客](https://github.com/lightjiao/lightjiao.github.io/tree/master?tab=readme-ov-file)
 
-## Learning
-- [Unity Learning Materials](https://learning.unity3d.jp/)
-
 ## Channel
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
 - [M Studio](https://www.youtube.com/@MSTUDIOHUB/videos)
 - [Coco Code](https://www.youtube.com/channel/UCfIiEKtakOPRPnE4iQTLvlA/videos)
 - [游戏石匠Super](https://space.bilibili.com/69585)
+
+## Forum
+- [Qiita|Unity](https://qiita.com/tags/unity)
+- [Zenn|Unity](https://zenn.dev/topics/unity?order=daily)
+- [Unity Learning Materials](https://learning.unity3d.jp/)
 
 ## Events
 - [Unity Meetup](https://meetup.unity3d.jp/jp/)
@@ -42,3 +44,4 @@ tags: ["Unity"]
 
 ## Community
 - [unityroom](https://unityroom.com/)
+

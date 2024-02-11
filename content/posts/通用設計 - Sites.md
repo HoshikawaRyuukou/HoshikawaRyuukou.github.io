@@ -6,13 +6,16 @@ draft: false
 tags: ["Common Design"]
 ---
 
+## Blogs
+- [Entropy Wins - A blog on Software Architecture, Design and Craftsmanship](https://www.entropywins.wtf/blog/)
+- [jyt0532's Blog](https://www.jyt0532.com/toc/)
+- [Tomas Tulka's Blog](https://blog.ttulka.com/)
+- [CodeOpinion](https://codeopinion.com/)
+- [Advice for junior developers](https://www.entropywins.wtf/blog/2022/09/21/advice-for-junior-developers/)
+
 ## Library
 - [DevIQ](https://deviq.com/)
 
-## Experiences 
-- [Advice for junior developers](https://www.entropywins.wtf/blog/2022/09/21/advice-for-junior-developers/)
-
-## Other
+## Others
 - [The Last Responsible Moment](https://blog.codinghorror.com/the-last-responsible-moment/)
 - [DRY is about Knowledge](https://verraes.net/2014/08/dry-is-about-knowledge/?fbclid=IwAR2QdH43DLiLnDUN_oRHv4cyJaUYEMBAiPOhSDhxlFkK0XyiVo-WaO39SYQ)
-
