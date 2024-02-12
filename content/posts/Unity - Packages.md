@@ -28,16 +28,15 @@ Scope(s):
 
 ---
 
+## Package Collection
+- [killop/anything_about_game](https://github.com/killop/anything_about_game/tree/b5c3b2e573d0970b318fd75b1449dbd9fdaa0ee9)
+- [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github/tree/master?tab=readme-ov-file)
+
 ## Animation
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 
 ## Async
 - [UniTask](https://github.com/Cysharp/UniTask)    
-  - [Patterns & Practices for efficiently handling C# async/await cancel processing and timeouts](https://neuecc.medium.com/patterns-practices-for-efficiently-handling-c-async-await-cancel-processing-and-timeouts-b419ce5f69a4)
-  - [精选Unity-Github开源库分享 最完美的异步操作解决方案 UniTask](https://www.bilibili.com/video/BV1NG411s7hN/?spm_id_from=333.788)
-  - [C# Task 指南](http://www.liuocean.com/2022/10/11/c-task-zhi-nan/)
-  - [async/await,disposableを使って素直で読みやすいコードを書く](https://learning.unity3d.jp/7224/)
-  - [UniTaskCompletionSource Should Support CancellationToken](https://github.com/Cysharp/UniTask/issues/81)
 
 ## Debug
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
@@ -53,7 +52,7 @@ Scope(s):
 ## Editor
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
 
-## HotUpdate
+## HotFix
 - [HybridCLR](https://hybridclr.doc.code-philosophy.com/)
 
 ## Localization
@@ -87,5 +86,3 @@ Scope(s):
 
 ## UI
 - [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
-  - openupm - me.qiankanglai.loopscrollrect
-  - [効率的なスクロールビューを実装するためのOSS『Loop Scroll Rect』使い方まとめ](https://light11.hatenadiary.com/entry/2022/05/16/201949)

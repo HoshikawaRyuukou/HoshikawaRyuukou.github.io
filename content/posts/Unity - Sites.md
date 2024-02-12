@@ -33,6 +33,10 @@ tags: ["Unity"]
 - [Coco Code](https://www.youtube.com/channel/UCfIiEKtakOPRPnE4iQTLvlA/videos)
 - [游戏石匠Super](https://space.bilibili.com/69585)
 
+## Collection
+- [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining/tree/0501d6b93520f9d3481f76cd092b71c945e3e3f7?tab=readme-ov-file)
+
+
 ## Forum
 - [Qiita|Unity](https://qiita.com/tags/unity)
 - [Zenn|Unity](https://zenn.dev/topics/unity?order=daily)
