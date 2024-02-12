@@ -51,8 +51,10 @@ private async UniTask<string> ReadTxtAsync(string path, CancellationToken token)
     {
         // 執行前檢查
         token.ThrowIfCancellationRequested();
+
         var str = File.ReadAllText(path);
-        // 執行前後
+
+        // 執行後檢查
         token.ThrowIfCancellationRequested();
         return str;
     });
