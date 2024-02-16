@@ -86,3 +86,6 @@ Scope(s):
 
 ## UI
 - [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
+
+## Web
+- [UnityWebSocket](https://github.com/psygames/UnityWebSocket/tree/master)
