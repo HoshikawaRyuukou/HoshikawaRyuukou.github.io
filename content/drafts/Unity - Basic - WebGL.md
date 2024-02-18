@@ -13,3 +13,9 @@ https://zenn.dev/yoshd/articles/00aa57079e4063
 https://docs.unity3d.com/2023.2/Documentation/Manual/webgl-browsercompatibility.html
 https://zenn.dev/matsuataru/articles/async_websoket_adcal_2023
 https://zenn.dev/happy_elements/articles/hekk_ac_20231215
+https://qiita.com/kazuki_kuriyama/items/3155606bb6cb5861ce68
+https://webassembly.org/
+
+
+websocket
+- https://cloud.tencent.com/developer/article/2356159

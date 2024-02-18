@@ -1,6 +1,6 @@
 ---
 title: "Unity - Packages"
-date: 2024-01-28 21:11:00
+date: 2024-02-16 21:11:00
 draft: false
 
 tags: ["Unity"]
@@ -38,6 +38,9 @@ Scope(s):
 ## Async
 - [UniTask](https://github.com/Cysharp/UniTask)    
 
+## Code Generation
+- [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen)
+
 ## Debug
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
 
@@ -50,7 +53,8 @@ Scope(s):
 - [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) 
 
 ## Editor
-- [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
+- [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) 
+- [Alchemy](https://github.com/AnnulusGames/Alchemy) 
 
 ## HotFix
 - [HybridCLR](https://hybridclr.doc.code-philosophy.com/)
