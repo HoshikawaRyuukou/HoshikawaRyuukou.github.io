@@ -1,0 +1,13 @@
+---
+title: "通用設計 - Architecture - Player Application"
+date: 2024-01-19 21:05:00
+draft: trye
+
+tags: ["Common Design", "Architecture"]
+---
+
+- 以本次的應用來說 從server 接收資料並呈現
+- 基本沒有什麼 業務邏輯 就算有也是 應用邏輯
+- 但用 port 將 變化隔離是可行的 / fake 時也有用
+- 對 api 的要求如果不是對應到單畫面 
+- 在 api 取回的資料比較雜的狀況下 則須考慮較全局的狀態管理
