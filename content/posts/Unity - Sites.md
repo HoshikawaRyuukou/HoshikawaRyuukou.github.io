@@ -41,6 +41,7 @@ tags: ["Unity"]
 - [Qiita|Unity](https://qiita.com/tags/unity)
 - [Zenn|Unity](https://zenn.dev/topics/unity?order=daily)
 - [Unity Learning Materials](https://learning.unity3d.jp/)
+- [Unity3d - 幻想社区](https://www.fantsida.com/t/unity3d)
 
 ## Events
 - [Unity Meetup](https://meetup.unity3d.jp/jp/)

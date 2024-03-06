@@ -38,9 +38,6 @@ Scope(s):
 ## Async
 - [UniTask](https://github.com/Cysharp/UniTask)    
 
-## Code Generation
-- [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen)
-
 ## Debug
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
 

@@ -77,4 +77,5 @@ https://play.google.com/store/apps/details?id=${package name}&referrer=${paramet
 ## Ref
 - [Android 下載歸因— GA與Play Install Referrer庫](https://juejin.cn/post/7305182777438683162)
 - [android 整合Play Install Referrer](https://blog.csdn.net/HUandroid/article/details/119249924)
-
+- [uerceg/play-install-referrer-unity (obsolete)](https://github.com/uerceg/play-install-referrer-unity)
+- 

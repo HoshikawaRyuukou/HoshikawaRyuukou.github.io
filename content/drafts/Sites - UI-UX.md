@@ -9,3 +9,5 @@ tags: ["Sites"]
 ## 個人
 - [ゲームUI演出 | このサイト(ゲームUI演出)はアニメーションデザイナー用に管理人がUIアニメーションについてつらつら書くサイトです。](https://gameanimation.info/)
 - [動くWebデザインアイディア帳](https://coco-factory.jp/ugokuweb/)
+
+https://note.com/happyelements/n/nf2734bcc5f4b?sub_rt=share_pw

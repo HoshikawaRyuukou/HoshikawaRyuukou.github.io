@@ -51,6 +51,7 @@ tags: ["Unity"]
 ## TextMeshPro
 - [TextMeshPro Anatomy](https://gametorrahod.com/textmeshpro-anatomy/)
 - [[Unity干货]使用TextMeshPro动态字体节省时间](https://www.bilibili.com/video/BV1oK411x7MG)
+- [【Unity】TextMesh Proで数字をスプライト表示する](https://nekojara.city/unity-textmesh-pro-sprite-number)
 
 ## UI
 - [【Unity】3つだけでいい!?覚えるべきUIアンカー](https://shibuya24.info/entry/unity-ui-anchor)

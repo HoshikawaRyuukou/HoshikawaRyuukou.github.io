@@ -17,5 +17,14 @@ https://qiita.com/kazuki_kuriyama/items/3155606bb6cb5861ce68
 https://webassembly.org/
 
 
+https://unityletsgo.hatenablog.com/entry/2024/01/24/141042
+https://forum.unity.com/threads/my-webgl-assets.994741/
+https://tech.framesynthesis.co.jp/unity/webgl/
+https://x.com/dsedb/status/1763720642552381923?t=UWy-8-g5nss0Dtt2_D7syQ&s=35
+
+
+
+
+
 websocket
 - https://cloud.tencent.com/developer/article/2356159
