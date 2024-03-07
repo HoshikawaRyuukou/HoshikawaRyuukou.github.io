@@ -26,6 +26,8 @@ tags: ["Unity"]
 - [REALITY｜note](https://note.com/reality_eng/)
 - [Mirrativ Tech Blog](https://tech.mirrativ.stream/)
 - [Lightjiao的博客](https://github.com/lightjiao/lightjiao.github.io/tree/master?tab=readme-ov-file)
+- [ピクセルブログ](https://kyoro-s.com/)
+- [unityでいってみよう！](https://unityletsgo.hatenablog.com/)
 
 ## Channel
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
@@ -35,7 +37,6 @@ tags: ["Unity"]
 
 ## Collection
 - [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining/tree/0501d6b93520f9d3481f76cd092b71c945e3e3f7?tab=readme-ov-file)
-
 
 ## Forum
 - [Qiita|Unity](https://qiita.com/tags/unity)

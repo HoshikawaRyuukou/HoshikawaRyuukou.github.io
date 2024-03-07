@@ -48,6 +48,11 @@ tags: ["Unity"]
 ## Screen
 - [How to capture the screen in Unity (3 methods)](https://gamedevbeginner.com/how-to-capture-the-screen-in-unity-3-methods/)
 
+## Text
+- [【Unity编辑器扩展】艺术字/自定义图片字体生成工具](https://blog.csdn.net/final5788/article/details/134158552)
+- [【Unity】自作フォントを作成してTextで表示する方法](https://kyoro-s.com/unity-5/#google_vignette)
+- [Unity中自制UGUI艺术字体（位图字体）（Bitmap Font Generator）](https://blog.csdn.net/linxinfa/article/details/116561750)
+
 ## TextMeshPro
 - [TextMeshPro Anatomy](https://gametorrahod.com/textmeshpro-anatomy/)
 - [[Unity干货]使用TextMeshPro动态字体节省时间](https://www.bilibili.com/video/BV1oK411x7MG)
