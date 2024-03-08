@@ -21,3 +21,11 @@ tags: ["Common Design", "Architecture"]
 - 應該要很容易模擬所以 case 而不是真的用 server + 記錄檔來看 case
 - slot 大獎通知?
 
+- 依賴 inspector 的結果
+- 掛一堆 Mono 
+- 難以追蹤腳本使用
+
+
+- client 的目的是要顯示數據  
+- 以 client / Server 來說 client 沒有業務邏輯 事務腳本倒是有
+

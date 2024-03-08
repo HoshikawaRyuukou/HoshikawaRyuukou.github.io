@@ -19,6 +19,7 @@ Scope(s):
 ```
 3. Package manager -> Packages: My Registries -> Install
 
+### Guide
 - [Unity中 .asmdef文件的作用](https://zhuanlan.zhihu.com/p/139090680)
 - [使用OpenUPM发布自己的Unity项目](https://zhuanlan.zhihu.com/p/146565975)
 - [开发Unity PackageManager 插件包](https://www.jianshu.com/p/153841d65846)
@@ -43,8 +44,6 @@ Scope(s):
 
 ## Dependency Injection
 - [VContainer](https://github.com/hadashiA/VContainer)  
-  - openupm - jp.hadashikick.vcontainer  
-  - [How to avoid Dependency Injection constructor madness?](https://stackoverflow.com/questions/2420193/how-to-avoid-dependency-injection-constructor-madness)
 
 ## Dialogue 
 - [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) 
@@ -73,7 +72,6 @@ Scope(s):
 
 ## Rx (Reactive Extensions)
 - [UniRx](https://github.com/neuecc/UniRx)    
-  - [【Unity框架】UniRx精讲](https://www.bilibili.com/read/cv15236973)
 
 ## Serialization
 - [Newtonsoft.Json](https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-official-via-UPM)

@@ -14,6 +14,9 @@ tags: ["Unity"]
 
 VContainer 作為一個 DI library，在其的幫助下對象之間的依賴處理方便了很多。但還是必須要說 DI library 不是必要的，最基本實現依賴注入的方式便是 Composition Root ，也被稱作窮人的 DI。這裡主要紀錄應用時的得到的一些理解
 
+
+  - [How to avoid Dependency Injection constructor madness?](https://stackoverflow.com/questions/2420193/how-to-avoid-dependency-injection-constructor-madness)
+
 ### LifetimeScope 
 - Lifetime.Singleton : 單例
 - Lifetime.Scoped : 同範圍等同單例
