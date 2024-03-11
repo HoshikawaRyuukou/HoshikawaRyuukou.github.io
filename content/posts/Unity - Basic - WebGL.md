@@ -21,6 +21,10 @@ tags: ["Unity", "WebGL"]
 ## Tests
 - [Unity WebGL Loading Test](https://github.com/JohannesDeml/UnityWebGL-LoadingTest?tab=readme-ov-file)
 
+## Instant Game
+- [Meta Instant Games](https://create.unity.com/instant-games) 
+- [Unity Instant Game](https://unity.cn/instantgame)
+
 ## Others
 - [【Unity】WebGL開発時の注意事項](https://qiita.com/kazuki_kuriyama/items/3155606bb6cb5861ce68)
 - [#Unity 游戏一键打包 #Facebook小游戏 解决方案](https://xmanyou.com/unity-webgl-convert-to-facebook-instant-game/)
