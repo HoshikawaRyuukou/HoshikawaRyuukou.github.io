@@ -15,6 +15,14 @@ tags: ["Unity", "WebGL"]
 - [Unity 製 WebGL ゲームを AWS でお手軽公開](https://zenn.dev/happy_elements/articles/hekk_ac_20231215)
 - [Unity WebGL 微信小游戏适配方案(公测)](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/tree/main?tab=readme-ov-file)
 
+## Recommended Basic Todo
+- 資源使用 Assetbundle 分包
+- 資源限制下載數 ( 10個以內 )
+- 資源緩存
+- 啟動封面範本修改
+- 閒置時段下載資源
+- wasm 分包 (方案尋找中)
+
 ## Template
 - [(Unity) Better Minimal WebGL Template](https://seansleblanc.itch.io/better-minimal-webgl-template)
 
