@@ -7,21 +7,14 @@ tags: ["Unity", "WebGL"]
 ---
 
 ## 前述
-- 目前使用 **Unity 2022.3** 開發，Unity 2022.1 在 iPhone/Android 上運行時不再顯示警告。 似乎可以逐漸用於智慧手機專案。
+- 使用 **Unity 2022.3** 開發，Unity 2022.1 在 iPhone/Android 上運行時不再顯示警告。似乎可以逐漸用於智慧手機專案。
+- Context 是 **2D 小遊戲**，以 **webgl 1** 輸出，暫時不需要 webgl 2 畫面效果。
 
 ## Guide 
 - [Unity User Manual 2022.3 (LTS)Platform developmentWebGL](https://docs.unity3d.com/2022.3/Documentation/Manual/webgl.html)
 - [Unity WebGLビルドメモ - フレームシンセシス](https://tech.framesynthesis.co.jp/unity/webgl/)
 - [Unity 製 WebGL ゲームを AWS でお手軽公開](https://zenn.dev/happy_elements/articles/hekk_ac_20231215)
 - [Unity WebGL 微信小游戏适配方案(公测)](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/tree/main?tab=readme-ov-file)
-
-## Recommended Basic Todo
-- 資源使用 Assetbundle 分包
-- 資源限制下載數 ( 10個以內 )
-- 資源緩存
-- 啟動封面範本修改
-- 閒置時段下載資源
-- wasm 分包 (方案尋找中)
 
 ## Template
 - [(Unity) Better Minimal WebGL Template](https://seansleblanc.itch.io/better-minimal-webgl-template)
@@ -32,6 +25,14 @@ tags: ["Unity", "WebGL"]
 ## Instant Game
 - [Meta Instant Games](https://create.unity.com/instant-games) 
 - [Unity Instant Game](https://unity.cn/instantgame)
+
+## Recommended Basic Todo
+- 資源使用 Assetbundle 分包
+- 資源限制下載數 ( 10個以內 )
+- 資源緩存
+- 啟動封面範本修改
+- 閒置時段下載資源
+- wasm 分包 (方案尋找中)
 
 ## Others
 - [【Unity】WebGL開発時の注意事項](https://qiita.com/kazuki_kuriyama/items/3155606bb6cb5861ce68)
