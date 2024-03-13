@@ -6,6 +6,12 @@ draft: true
 tags: ["Unity"]
 ---
 
+## Game Company
+- [Happy Elements株式会社](https://www.happyelements.co.jp/)
+
+
+
+
 - [[Unity] 腳本模板 | 如何創建自定義腳本模板 | Script Templates](https://www.youtube.com/watch?v=uh9bDTX9T5E)
 - [【Unity教學-Rendering】用URP提升渲染品質 | Unity基礎渲染](https://www.youtube.com/watch?v=LLwnmGInpC4)
 - [【Unity】uGUIのリビルドによるパフォーマンス低下を防ぐ方法](https://light11.hatenadiary.com/entry/2019/06/02/214125)
