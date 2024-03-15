@@ -7,13 +7,14 @@ tags: ["Common Design"]
 ---
 
 ## Blogs
+- [Khalil Stemmler | Become a confident crafter. Learn to write testable, scalable TypeScript.](https://khalilstemmler.com/)
 - [Entropy Wins - A blog on Software Architecture, Design and Craftsmanship](https://www.entropywins.wtf/blog/)
 - [jyt0532's Blog](https://www.jyt0532.com/toc/)
 - [Tomas Tulka's Blog](https://blog.ttulka.com/)
 - [CodeOpinion](https://codeopinion.com/)
 - [Advice for junior developers](https://www.entropywins.wtf/blog/2022/09/21/advice-for-junior-developers/)
 
-## Library
+## Guide
 - [DevIQ](https://deviq.com/)
 
 ## Others
