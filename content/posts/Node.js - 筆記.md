@@ -9,4 +9,8 @@ tags: ["Node.js"]
 ## 導讀
 - [Node.js究竟是什么？初学者指南](https://zhuanlan.zhihu.com/p/648238863)
 
+## 環境
+
+### Windows
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
 
