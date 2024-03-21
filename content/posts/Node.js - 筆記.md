@@ -13,4 +13,4 @@ tags: ["Node.js"]
 
 ### Windows
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-
+- [nvm-windows 管理 Windows Node.js 版本](https://medium.com/@ray102467/nvm-windows-%E7%AE%A1%E7%90%86-windows-node-js-%E7%89%88%E6%9C%AC-68d789cf84d7)
