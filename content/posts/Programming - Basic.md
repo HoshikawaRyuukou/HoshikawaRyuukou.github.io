@@ -1,7 +1,7 @@
 ---
 title: "Programming - Basic"
 date: 2024-03-16 21:11:00
-draft: true
+draft: false
 
 tags: ["Programming"]
 ---
