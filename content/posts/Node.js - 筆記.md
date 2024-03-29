@@ -14,9 +14,11 @@ tags: ["Node.js"]
 ### Windows
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
 - [nvm-windows 管理 Windows Node.js 版本](https://medium.com/@ray102467/nvm-windows-%E7%AE%A1%E7%90%86-windows-node-js-%E7%89%88%E6%9C%AC-68d789cf84d7)
+- [解决Node.js的命令行输出中文乱码问题（也适用于Electron）](https://www.jianshu.com/p/a07eeb43d8b3)
 
 ## Architecture
 - [Enterprise Node + TypeScript | Khalil Stemmler](https://khalilstemmler.com/articles/categories/enterprise-node-type-script)
 
 ## GUI framework
 - [electron/electron](https://github.com/electron/electron)
+
