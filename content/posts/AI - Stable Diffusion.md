@@ -9,20 +9,18 @@ tags: ["AI"]
 ## 安裝
 [安裝Stable Diffusion WebUI](https://ivonblog.com/posts/stable-diffusion-webui-manuals/installation/windows-installation/)
 
-## 頻道
-- [萌芽綜合天地 - Stable Diffusion web UI](https://mnya.tw/cc/word/tag/stable-diffusion-web-ui)
-- [人工治障](https://space.bilibili.com/498518999/video)
-- [杰克艾米立](https://www.youtube.com/@JackEllie/videos)
-- [AIツール関係](https://sazano123.com/category/ai%e3%83%84%e3%83%bc%e3%83%ab%e9%96%a2%e4%bf%82)
-
 ## 社群
 - [Civitai](https://civitai.com/)
-- [AI 그림 채널](https://arca.live/b/aiart)
 
 ## 畫廊
 - [Prompt Search](https://www.ptsearch.info/home/)
 - [chichi-pui](https://www.chichi-pui.com/)
 - [PixAI.Art](https://pixai.art/)
+
+## 頻道
+- [杰克艾米立](https://www.youtube.com/@JackEllie/videos)
+- [AIツール関係](https://sazano123.com/category/ai%e3%83%84%e3%83%bc%e3%83%ab%e9%96%a2%e4%bf%82)
+- [AI FREAK](https://ai-freak.com/)
 
 ## Prompt
 - [AI繪圖魔導書](https://docs.google.com/spreadsheets/d/16wR5Zg_aQEbxLdrTOrB9cZf8QmsMrJnSGxFKbZVtrKc)
