@@ -19,6 +19,9 @@ tags: ["Node.js"]
 ## Architecture
 - [Enterprise Node + TypeScript | Khalil Stemmler](https://khalilstemmler.com/articles/categories/enterprise-node-type-script)
 
+## Testing
+- [Node.js Testing: Best Practices and Frameworks](https://medium.com/@vishwasacharya/node-js-testing-best-practices-and-frameworks-for-reliable-apps-656f1cc51426)
+
 ## GUI framework
 - [electron/electron](https://github.com/electron/electron)
 

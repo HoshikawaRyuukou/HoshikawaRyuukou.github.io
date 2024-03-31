@@ -15,4 +15,6 @@ tags: ["Game Theory"]
 
 ### Sampling 
 - [Alias Method: 非均匀随机抽样算法](https://blog.csdn.net/rover2002/article/details/106760664)
+- [mackysoft/Choice](https://github.com/mackysoft/Choice?tab=readme-ov-file#speed-measurement)
+- [Darts, Dice, and Coins: Sampling from a Discrete Distribution](https://www.keithschwarz.com/darts-dice-coins/)
 
