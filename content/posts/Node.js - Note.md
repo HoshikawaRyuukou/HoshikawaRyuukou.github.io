@@ -1,9 +1,9 @@
 ---
-title: "Node.js - 筆記"
+title: "Node.js - Note"
 date: 2024-03-13 21:11:00
 draft: false
 
-tags: ["Node.js"]
+tags: ["Node.js", "JavaScript", "TypeScript"]
 ---
 
 ## 導讀
@@ -11,6 +11,10 @@ tags: ["Node.js"]
 - [TypeScript 语言简介 | 阮一峰 TypeScript 教程](https://typescript.p6p.net/typescript-tutorial/intro.html)
 - [tsx: 替代 node 指令、支持运行 TypeScript & ESM 的 CLI 程序](https://www.bilibili.com/read/cv27094154/)
 - [如何在 TypeScript + ESM + Mocha + tsconfig-paths 下运行 Mocha 测试用例](https://shuizhongyueming.com/2024/02/29/mocha-with-typescript-esm-and-tsconfig-paths/)
+- [《JavaScript 教程》](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript)
+- [ES6 教程](https://wangdoc.com/es6/)
+- [TypeScript 教程 | 菜鸟教程](https://www.runoob.com/typescript/ts-tutorial.html) 
+- [TypeScript 教程 阮一峰](https://typescript.p6p.net/)
 
 ## 環境
 

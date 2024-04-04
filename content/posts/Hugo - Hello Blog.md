@@ -1,9 +1,9 @@
 ---
-title: "你好! Hugo"
+title: "Hugo - Hello Blog"
 date: 2022-11-05 20:05:00
 draft: false
 
-tags: ["Blog", "Hugo"]
+tags: ["Hugo", "Blog"]
 ---
 
 ## Blog

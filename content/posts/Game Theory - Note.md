@@ -1,5 +1,5 @@
 ---
-title: "Game Theory - 筆記"
+title: "Game Theory - Note"
 date: 2024-03-15 21:11:00
 draft: false
 

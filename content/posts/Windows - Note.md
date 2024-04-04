@@ -1,5 +1,5 @@
 ---
-title: "Windows - 筆記"
+title: "Windows - Note"
 date: 2024-03-29 21:11:00
 draft: false
 

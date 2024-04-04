@@ -1,5 +1,5 @@
 ---
-title: "VScode - 筆記"
+title: "VScode - Note"
 date: 2024-03-30 21:11:00
 draft: false
 

@@ -1,5 +1,5 @@
 ---
-title: "Hugo - 筆記"
+title: "Hugo - Note"
 date: 2023-02-25 13:11:00
 draft: false
 

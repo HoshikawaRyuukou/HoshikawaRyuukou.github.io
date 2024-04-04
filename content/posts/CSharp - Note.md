@@ -1,5 +1,5 @@
 ---
-title: "CSharp - 筆記"
+title: "CSharp - Note"
 date: 2023-01-05 21:11:00
 draft: false
 
