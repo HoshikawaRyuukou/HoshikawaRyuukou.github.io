@@ -35,8 +35,11 @@ tsc --init
 ## Project Structure
 ```
 mkdir demo src test
+mkdir src\domain\entities
+mkdir src\domain\services
+mkdir test\domain\entities
+mkdir test\domain\services
 ```
-
 ---
 
 ## Other
