@@ -23,11 +23,16 @@ tags: ["Unity"]
 - [はなちるのマイノート](https://www.hanachiru-blog.com/)
 - [くものす](https://kingmo.jp/kumonos/)
 - [Yucchiy's Note](https://blog.yucchiy.com/)
-- [REALITY｜note](https://note.com/reality_eng/)
 - [Mirrativ Tech Blog](https://tech.mirrativ.stream/)
 - [Lightjiao的博客](https://github.com/lightjiao/lightjiao.github.io/tree/master?tab=readme-ov-file)
 - [ピクセルブログ](https://kyoro-s.com/)
 - [unityでいってみよう！](https://unityletsgo.hatenablog.com/)
+- [ねこじゃらシティ](https://nekojara.city/)
+- [YAMADA TAISHI’s diary](https://orotiyamatano.hatenablog.com/)
+
+## Blog (Enterprise)
+- [CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ](https://developers.cyberagent.co.jp/blog/)
+- [REALITY｜note](https://note.com/reality_eng/)
 
 ## Channel
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
@@ -43,10 +48,12 @@ tags: ["Unity"]
 - [Zenn|Unity](https://zenn.dev/topics/unity?order=daily)
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [Unity3d - 幻想社区](https://www.fantsida.com/t/unity3d)
+- [「unity」の人気の記事一覧｜note](https://note.com/search?q=unity&context=note&mode=search)
 
 ## Events
 - [Unity Meetup](https://meetup.unity3d.jp/jp/)
 - [Unity Advent Calendar](https://qiita.com/advent-calendar/2023/unity)
+- [Unityユースクリエイターカップ](https://uycc.unity3d.jp/)
 
 ## Community
 - [unityroom](https://unityroom.com/)
