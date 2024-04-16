@@ -1,6 +1,6 @@
 ---
 title: "Unity - Packages"
-date: 2024-02-16 21:11:00
+date: 2024-04-13 21:11:00
 draft: false
 
 tags: ["Unity"]
@@ -64,6 +64,9 @@ Scope(s):
 ## Messaging 
 - [MessagePipe](https://github.com/Cysharp/MessagePipe)    
 
+## Particle Effect
+- [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
+
 ## Persistence
 - [PlayerPrefs Editor & Utilities](https://github.com/sabresaurus/PlayerPrefsEditor)
 
@@ -79,6 +82,9 @@ Scope(s):
 
 ## Sharing
 - [Unity Native Share Plugin](https://github.com/yasirkula/UnityNativeShare)
+
+## Sprite
+- [sprite-dicing](https://github.com/elringus/sprite-dicing)
 
 ## State Machine
 - [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM)
