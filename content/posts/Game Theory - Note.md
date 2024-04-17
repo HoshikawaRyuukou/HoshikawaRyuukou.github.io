@@ -1,6 +1,6 @@
 ---
 title: "Game Theory - Note"
-date: 2024-03-15 21:11:00
+date: 2024-04-15 21:11:00
 draft: false
 
 tags: ["Game Theory"]
@@ -10,6 +10,7 @@ tags: ["Game Theory"]
 - [SLOT設計王文章導讀 - SLOT設計王](https://ezslotdesign.com/introducing/)
 - [Slots设计攻略导读](https://zhuanlan.zhihu.com/p/632180046)
 - [Know Your Slots](https://www.knowyourslots.com/)
+- [游戏中的伪随机](https://www.bilibili.com/video/BV15i42127Q4)
 
 ## Algorithm
 
