@@ -7,6 +7,7 @@ tags: ["Unity"]
 ---
 
 ## Blog
+- [Yucchiy's Note](https://blog.yucchiy.com/) 
 - [コガネブログ](https://baba-s.hatenablog.com/)
 - [LIGHT11](https://light11.hatenadiary.com/)
 - [PG日誌](https://takap-tech.com/)
@@ -22,7 +23,6 @@ tags: ["Unity"]
 - [老刘@开发笔记](http://blog.coolcoding.cn/)
 - [はなちるのマイノート](https://www.hanachiru-blog.com/)
 - [くものす](https://kingmo.jp/kumonos/)
-- [Yucchiy's Note](https://blog.yucchiy.com/)
 - [Mirrativ Tech Blog](https://tech.mirrativ.stream/)
 - [Lightjiao的博客](https://github.com/lightjiao/lightjiao.github.io/tree/master?tab=readme-ov-file)
 - [ピクセルブログ](https://kyoro-s.com/)
