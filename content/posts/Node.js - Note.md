@@ -21,28 +21,38 @@ tags: ["Node.js", "JavaScript", "TypeScript"]
 -D: 等價於 --save-dev，套件添加到 package.json 的 devDependencies 
 ```
 
-```
+```bash
 npm install -g typescript
 ```
 
-```
+```bash
 npm init -y
 npm install -D typescript
 npm install -D tsx
+npm install -D @types/node
 tsc --init
 ```
 
----
+# ESLint
+- [Understanding ESLint Configuration: .eslintrc.js vs .eslintrc vs .eslintrc.json](https://medium.com/@ritz.sh/understanding-eslint-configuration-eslintrc-js-vs-eslintrc-vs-eslintrc-json-287ec5e95bf4)
+- [How to use ESLint with TypeScript](https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/)
+- [[note] ESLint](https://pjchender.dev/webdev/note-eslint/)
+
+```bash
+npx eslint --init
+
+npm install --save-dev @typescript-eslint/parser @typescript-eslint/eslint-plugin
+```
+
 ## Project Structure
 ```
 mkdir demo src test
 mkdir src\domain\entities
-mkdir src\domain\services
 mkdir test\domain\entities
-mkdir test\domain\services
 ```
----
 
+
+<!-- 
 ## Other
 - [Enterprise Node + TypeScript | Khalil Stemmler](https://khalilstemmler.com/articles/categories/enterprise-node-type-script)
 - [electron/electron](https://github.com/electron/electron)
@@ -52,4 +62,4 @@ mkdir test\domain\services
 - [TypeScript 教程 | 菜鸟教程](https://www.runoob.com/typescript/ts-tutorial.html) 
 - [TypeScript 教程 阮一峰](https://typescript.p6p.net/)
 - [如何在Node.js中使用TypeScript](https://juejin.cn/post/7174610946713714702)
-
+-->

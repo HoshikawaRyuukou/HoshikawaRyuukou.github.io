@@ -41,6 +41,18 @@ package.json
 }
 ```
 
+simpleTest.spec.ts
+```ts
+describe('Simple Test', () => {
+  it('should pass this simple test', () => {
+    const x = 2;
+    const y = 2;
+    const sum = x + y;
+    expect(sum).to.equal(4);
+  });
+});
+```
+
 ```
 npm test
 ```
