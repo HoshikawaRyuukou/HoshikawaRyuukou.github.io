@@ -1,5 +1,5 @@
 ---
-title: "Node.js - Note"
+title: "Node.js - Configure"
 date: 2024-03-13 21:11:00
 draft: false
 
