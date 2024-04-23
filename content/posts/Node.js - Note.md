@@ -33,16 +33,31 @@ npm install -D @types/node
 tsc --init
 ```
 
-# ESLint
+## ESLint
 - [Understanding ESLint Configuration: .eslintrc.js vs .eslintrc vs .eslintrc.json](https://medium.com/@ritz.sh/understanding-eslint-configuration-eslintrc-js-vs-eslintrc-vs-eslintrc-json-287ec5e95bf4)
 - [How to use ESLint with TypeScript](https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/)
 - [[note] ESLint](https://pjchender.dev/webdev/note-eslint/)
+- [尝鲜ESLint v9版本 扁平模式(Flat Mode)如何配置](https://juejin.cn/post/7359505949319233548)
 
 ```bash
-npx eslint --init
-
-npm install --save-dev @typescript-eslint/parser @typescript-eslint/eslint-plugin
+npm install -D eslint@8.57.0
+npm install -D @typescript-eslint/parser 
+npm install -D @typescript-eslint/eslint-plugin
 ```
+
+## Prettier 
+- [How to use Prettier with ESLint and TypeScript in VSCode](https://khalilstemmler.com/blogs/tooling/prettier/)
+
+```bash
+npm install -D prettier  
+npm install -D eslint-config-prettier  
+npm install -D eslint-plugin-prettier
+```
+
+> ⚠️ 如果已經啟用 auto format，但並未生效
+> ![format](/images/vscode-format-setting.png)
+> 可能是有多個 formatter 同時作用，需指定預設 formatter (vscode 右下角應該會提示要選擇一種為預設)
+
 
 ## Project Structure
 ```
