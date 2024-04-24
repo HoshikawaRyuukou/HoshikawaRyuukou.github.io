@@ -11,6 +11,8 @@ tags: ["Game Theory"]
 - [Slots设计攻略导读](https://zhuanlan.zhihu.com/p/632180046)
 - [Know Your Slots](https://www.knowyourslots.com/)
 - [游戏中的伪随机](https://www.bilibili.com/video/BV15i42127Q4)
+- [随机游走的赌徒是如何赔光的](https://zhuanlan.zhihu.com/p/139400935)
+- [How Slot Machines Work: Virtual Reel Mapping](https://www.youtube.com/watch?v=Ur53m9zQ5sY)
 
 ## Algorithm
 
