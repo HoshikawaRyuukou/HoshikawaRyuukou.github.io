@@ -41,6 +41,7 @@ tsc --init
 
 ```bash
 npm install -D eslint@8.57.0
+npm install -D typescript-eslint
 npm install -D @typescript-eslint/parser 
 npm install -D @typescript-eslint/eslint-plugin
 ```
