@@ -60,22 +60,6 @@ npm install -D eslint-plugin-prettier
 > 可能是有多個 formatter 同時作用，需指定預設 formatter (vscode 右下角應該會提示要選擇一種為預設)
 
 
-## Project Structure
-```
-mkdir demo src test
-mkdir src\domain\entities
-mkdir test\domain\entities
-```
-
-
-<!-- 
-## Other
+## Project Architecture
+- [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon/tree/master?tab=readme-ov-file)
 - [Enterprise Node + TypeScript | Khalil Stemmler](https://khalilstemmler.com/articles/categories/enterprise-node-type-script)
-- [electron/electron](https://github.com/electron/electron)
-- [TypeScript 语言简介 | 阮一峰 TypeScript 教程](https://typescript.p6p.net/typescript-tutorial/intro.html)
-- [《JavaScript 教程》](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript)
-- [ES6 教程](https://wangdoc.com/es6/)
-- [TypeScript 教程 | 菜鸟教程](https://www.runoob.com/typescript/ts-tutorial.html) 
-- [TypeScript 教程 阮一峰](https://typescript.p6p.net/)
-- [如何在Node.js中使用TypeScript](https://juejin.cn/post/7174610946713714702)
--->
