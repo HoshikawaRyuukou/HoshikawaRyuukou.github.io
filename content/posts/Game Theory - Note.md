@@ -13,6 +13,7 @@ tags: ["Game Theory"]
 - [游戏中的伪随机](https://www.bilibili.com/video/BV15i42127Q4)
 - [随机游走的赌徒是如何赔光的](https://zhuanlan.zhihu.com/p/139400935)
 - [How Slot Machines Work: Virtual Reel Mapping](https://www.youtube.com/watch?v=Ur53m9zQ5sY)
+- [slotdesigner](https://slotdesigner.com/publications/)
 
 ## Algorithm
 

@@ -1,16 +1,17 @@
 ---
-title: "TypeScript - Note"
-date: 2024-04-16 21:11:00
+title: "JavaScript TypeScript - Note"
+date: 2024-04-29 21:11:00
 draft: false
 
-tags: ["TypeScript"]
+tags: ["JavaScript, TypeScript"]
 ---
 
-# Format
-- [JSON to TypeScript](https://transform.tools/json-to-typescript)
-
 # Style
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+# Tool
+- [JSON to TypeScript](https://transform.tools/json-to-typescript)
 
 <!-- 
 ## Other
