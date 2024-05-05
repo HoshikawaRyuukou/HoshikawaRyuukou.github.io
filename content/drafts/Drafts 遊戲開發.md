@@ -73,7 +73,7 @@ Strategy = How you manage risks/get rewards
 
 ## Blog
 - [That Game Designer](https://medium.com/that-game-designer)
-- [IGDSHARE | 獨立遊戲開發者分享會](https://igdshare.org/)
+
 - [ModooPlay](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5OTk1NjQ1MQ==&action=getalbum&album_id=1783236887017504778&scene=173&from_msgid=2247484889&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
@@ -96,25 +96,9 @@ Strategy = How you manage risks/get rewards
 - [MonoGame](https://www.monogame.net/)
 - [games 104](https://games104.boomingtech.com/tc/course-list/)
 
-## 伺服器
-### API Server
-
-- 負載高，寫入數據庫的次數相對頻繁
-- 一般採用具有異步處理專用語法的類型化語言
-- 緩存
-- 身份驗證、計費、任務、任務等... | 單獨的特性
-- 
-
-### Realtime Server
-- 用於戰鬥的遊戲內服務器。
-- 有狀態服務器是不同於 API 服務器的基礎。
-- 託管
 
 ### 參考
 - [Unity多人联机网络游戏开发都存在哪些误区？](https://www.zhihu.com/question/512125478)
 - [游戏服务器与普通服务器有什么区别?](https://www.zhihu.com/question/23508968)
 - [网游服务器逻辑和传输如何分层/解耦？](https://www.zhihu.com/question/512121738/answer/2347895513)
 - [How do multiplayer games sync their state? Part 1](https://medium.com/@qingweilim/how-do-multiplayer-games-sync-their-state-part-1-ab72d6a54043)
-
-## 營運
-- [[訪談] 蔚藍檔案的過去、現在和未來（下）](https://www.ptt.cc/bbs/C_Chat/M.1677847355.A.879.html)
