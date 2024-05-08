@@ -17,3 +17,6 @@ tags: ["Git"]
 - [如何做好分支管理，保证高效CI/CD？](https://zhuanlan.zhihu.com/p/556418580) 
 - [【GeekHour教程】分支管理和工作流模型](https://www.youtube.com/watch?v=vDs3K6Szstg)
 - [Git 進階應用 Submodule 與 Subtree，使用它們來拆分專案](https://blog.puckwang.com/posts/2020/git-submodule-vs-subtree/)
+
+## Command
+- [git revert 是如何让你丢失代码的？](https://www.bilibili.com/video/BV1S4421f7MS)

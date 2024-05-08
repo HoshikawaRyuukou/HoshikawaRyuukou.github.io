@@ -8,6 +8,7 @@ tags: ["Node.js", "JavaScript", "TypeScript"]
 
 ## Guide
 - [Node.js究竟是什么？初学者指南](https://zhuanlan.zhihu.com/p/648238863)
+- [Setup Node.js Projects with TypeScript, ESLint and Prettier](https://medium.com/@apeview/setup-node-js-projects-with-typescript-eslint-and-prettier-4c1f1fecd107)
 
 ## Environment
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
@@ -15,14 +16,20 @@ tags: ["Node.js", "JavaScript", "TypeScript"]
 - [解决Node.js的命令行输出中文乱码问题（也适用于Electron）](https://www.jianshu.com/p/a07eeb43d8b3)
 - [tsx: 替代 node 指令、支持运行 TypeScript & ESM 的 CLI 程序](https://www.bilibili.com/read/cv27094154/)
 
+## Config
+- [@tsconfig/node20](https://www.npmjs.com/package/@tsconfig/node20) : Node 20 推薦 tsconfig.json
+
+## Command
+- npm pack : 以 `.tgz` 導出 package
+- npm install
+  - -g : 全局安裝
+  - -D : 等價於 --save-dev，套件添加到 package.json 的 devDependencies 
 
 ## Project Configure
-```
--D: 等價於 --save-dev，套件添加到 package.json 的 devDependencies 
-```
 
 ```bash
 npm install -g typescript
+npm install -g tsx
 ```
 
 ```bash
@@ -30,6 +37,7 @@ npm init -y
 npm install -D typescript
 npm install -D tsx
 npm install -D @types/node
+npm install -D @tsconfig/node20
 tsc --init
 ```
 
