@@ -46,6 +46,7 @@ tsc --init
 - [How to use ESLint with TypeScript](https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/)
 - [[note] ESLint](https://pjchender.dev/webdev/note-eslint/)
 - [尝鲜ESLint v9版本 扁平模式(Flat Mode)如何配置](https://juejin.cn/post/7359505949319233548)
+- [eslintignore的忽略配置](https://juejin.cn/post/7007603848080523278)
 
 ```bash
 npm install -D eslint@8.57.0
