@@ -9,6 +9,7 @@ tags: ["Node.js", "JavaScript", "TypeScript"]
 ## Guide
 - [Node.js究竟是什么？初学者指南](https://zhuanlan.zhihu.com/p/648238863)
 - [Setup Node.js Projects with TypeScript, ESLint and Prettier](https://medium.com/@apeview/setup-node-js-projects-with-typescript-eslint-and-prettier-4c1f1fecd107)
+- [[指令] npm cli & package.json](https://pjchender.dev/npm/npm-cli-and-package-json/)
 
 ## Environment
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
