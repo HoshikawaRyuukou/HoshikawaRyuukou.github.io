@@ -3,11 +3,34 @@ title: "AI - Stable Diffusion"
 date: 2023-03-10 21:11:00
 draft: false
 
-tags: ["AI"]
+tags: ["AI", "Stable Diffusion"]
 ---
 
-## 安裝
-[安裝Stable Diffusion WebUI](https://ivonblog.com/posts/stable-diffusion-webui-manuals/installation/windows-installation/)
+## Env
+- 安裝 Python : 3.11 版 (不得超過)
+  - cmd `where python` 檢查安裝位置 
+  - Window 10 以上用戶須把 WindowsApps 商店的 python 關閉
+  - 設定 > 應用程式與功能 > 應用程式執行別名 > 將 python 相關的關閉
+- 安裝 CUDA : cmd `nvidia-smi` 查看顯卡支援的最高 CUDA 版本
+- 安裝 xformers : 
+- 安裝 ComfyUI : [github repo](https://github.com/comfyanonymous/ComfyUI)
+
+## Guide
+- [Stable Diffusion ComfyUI 入门介绍](https://blog.yanghong.dev/stable-diffusion-comfyui-introduction/)
+
+## Checkpoint
+- [Pony Diffusion](https://civitai.com/models/257749/pony-diffusion-v6-xl)
+  - [什么是Pony？介绍C站当下最流行的底模Pony V6。又名小马模型。](https://www.bilibili.com/video/BV1gw4m1y7jZ)
+  - [Pony Diffusion V6 出图技巧](https://www.bilibili.com/video/BV1mx4y1q7KL)
+- [autismmix](https://civitai.com/models/288584/autismmix-sdxl)
+- [RealCartoon-Anime](https://civitai.com/models/96629/realcartoon-anime)
+
+
+
+
+
+
+
 
 ## 社群
 - [Civitai](https://civitai.com/)
@@ -36,8 +59,6 @@ tags: ["AI"]
 - [【Stable diffusion技巧教程】深入分析二次元风AI跑图脸崩，假脸的解决方法](https://www.bilibili.com/video/BV1Nu4y1y7By)
 - [图生图终极指南：从玩具到工具！](https://www.bilibili.com/video/BV1gu4y1t7gW)
 
-## 案例
-- [【Stable diffusion案例教程】运用AI实现 草图→清稿→上色→3d效果全流程](https://www.bilibili.com/video/BV1Qo4y1T77V)
 
 ## Extra
 - [ImgPilot](https://github.com/leptonai/imgpilot)
