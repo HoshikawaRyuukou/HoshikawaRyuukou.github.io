@@ -7,7 +7,7 @@ tags: ["AI", "Stable Diffusion"]
 ---
 
 ## Env
-- 安裝 Python : 3.11 版 (不得超過)
+- 安裝 Python : 3.10.6 版 (不得超過)
   - cmd `where python` 檢查安裝位置 
   - Window 10 以上用戶須把 WindowsApps 商店的 python 關閉
   - 設定 > 應用程式與功能 > 應用程式執行別名 > 將 python 相關的關閉
@@ -24,13 +24,6 @@ tags: ["AI", "Stable Diffusion"]
   - [Pony Diffusion V6 出图技巧](https://www.bilibili.com/video/BV1mx4y1q7KL)
 - [autismmix](https://civitai.com/models/288584/autismmix-sdxl)
 - [RealCartoon-Anime](https://civitai.com/models/96629/realcartoon-anime)
-
-
-
-
-
-
-
 
 ## 社群
 - [Civitai](https://civitai.com/)
