@@ -1,17 +1,9 @@
 ---
-title: "Node.js - Package"
+title: "GitHub - GitHub Packages"
 date: 2024-05-26 21:11:00
 draft: true
 
-tags: ["Node.js"]
----
-
-## Tools
-- [npm trends](https://npmtrends.com/)
-
-
-
-
+tags: ["GitHub", "Node.js"]
 ---
 
 - [如何使用GitHub Packages创建npm私有库](https://www.clcoder.com/2019/12/31/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8GitHub%20Packages%E5%88%9B%E5%BB%BAnpm%E7%A7%81%E6%9C%89%E5%BA%93/)
