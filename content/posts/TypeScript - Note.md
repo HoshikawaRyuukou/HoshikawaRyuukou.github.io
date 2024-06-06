@@ -3,7 +3,7 @@ title: "TypeScript - Note"
 date: 2024-04-29 21:11:00
 draft: false
 
-tags: ["TypeScript, JavaScript"]
+tags: ["TypeScript"]
 ---
 
 # Style
