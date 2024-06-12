@@ -1,5 +1,5 @@
 ---
-title: "Art - Drawing - 筆記"
+title: "Drawing - Note"
 date: 2023-03-01 21:11:00
 draft: false
 

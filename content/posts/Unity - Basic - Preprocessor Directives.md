@@ -1,5 +1,5 @@
 ---
-title: "Unity - Basic - 前置處理器指示詞"
+title: "Unity - Basic - Preprocessor Directives"
 date: 2023-07-07 21:11:00
 draft: false
 
@@ -7,6 +7,9 @@ tags: ["Unity", "CSharp"]
 ---
 
 ## 前述
+
+中文稱作 : 前置處理器指示詞
+
 筆者最近接觸到的遺舊專案中發現裡面大量地使用 條件式編譯 
 ```csharp
 #if DEBUG

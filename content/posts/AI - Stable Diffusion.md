@@ -52,7 +52,6 @@ tags: ["AI", "Stable Diffusion"]
 - [【Stable diffusion技巧教程】深入分析二次元风AI跑图脸崩，假脸的解决方法](https://www.bilibili.com/video/BV1Nu4y1y7By)
 - [图生图终极指南：从玩具到工具！](https://www.bilibili.com/video/BV1gu4y1t7gW)
 
-
 ## Extra
 - [ImgPilot](https://github.com/leptonai/imgpilot)
 - [2vXpSwA7/iroiro-lora](https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main)
