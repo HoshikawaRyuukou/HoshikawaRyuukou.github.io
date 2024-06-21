@@ -74,3 +74,11 @@ npm install -D eslint-plugin-prettier
 ## Project Architecture
 - [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon/tree/master?tab=readme-ov-file)
 - [Enterprise Node + TypeScript | Khalil Stemmler](https://khalilstemmler.com/articles/categories/enterprise-node-type-script)
+
+
+<!-- 
+- [Clean and Adaptive Node.js Architecture with TypeScript](https://blog.bitsrc.io/a-clean-and-adaptive-nodejs-architecture-with-typescript-b144c1735447) 
+- [[Next Note] - 把 TypeScript、ESLint、Prettier、Alias 摻再一起做沙尿牛丸](https://rexhung0302.github.io/2022/11/06/20221106/)
+- [建立 TypeScript 專案的起手式](https://magiclen.org/typescript-start-new-project/#google_vignette)
+- 
+- -->

@@ -6,8 +6,15 @@ draft: false
 tags: ["Node.js"]
 ---
 
+<!-- ## Electron  -->
+<!-- - [详解 Electron 打包](https://juejin.cn/post/7250085815430430781?searchId=20240515124127171BD73281704381DFB2) -->
+
+## IO
+- [Rimraf详细介绍](https://blog.csdn.net/imdeity/article/details/137772287)
+
 ## Module
 - [什麼是前端模組化？](https://www.explainthis.io/zh-hant/swe/what-is-frontend-module#js)
+<!-- - [JavaScript模块加载顺序解析: require函数的工作原理](https://lkblog.net/notes/javascript/1721.html) -->
 
 ## Multitasking 
 - [Worker Threads in Node.JS](https://www.scaler.com/topics/nodejs/worker-threads-in-node-js/)

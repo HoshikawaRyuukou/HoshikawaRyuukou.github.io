@@ -18,3 +18,7 @@ tags: ["Github"]
 remote: Write access to repository not granted.
 repository -> Settings -> Actions -> General -> Workflow permissions 
 Read and write permissions 選取
+
+
+<!-- - [GitHub上 | 塞萊克](https://seleck.cc/tag/github/) -->
+<!-- - [GitHub Packagesを使用してprivateなnpmパッケージとして公開する](https://zenn.dev/052hide/articles/github-packages-npm-052hide) -->
