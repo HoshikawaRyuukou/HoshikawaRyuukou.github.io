@@ -23,7 +23,7 @@ tags: ["Vue"]
 - [vite+ vue3项目添加electron，并electron打包教程，以及electron代码热重载页面](https://juejin.cn/post/7324886896215261238?searchId=20240419155552BE66A45A0D78AF837B40#heading-16)
 - [《金融行业前端探索》一、开篇使用electron-vite-vue 搭建一个金融终端框架之登录功能](https://juejin.cn/post/7344625554530451496?searchId=20240419155552BE66A45A0D78AF837B40) 
 - [pdsuwwz/vue3-tab-demo](https://github.com/pdsuwwz/vue3-tab-demo)
-- 
+- [momotalk](https://github.com/U1805/momotalk)
 - 
 - -->
 
