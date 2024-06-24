@@ -27,9 +27,7 @@ tags: ["Telegarm"]
                 "update_id": 123456789,
                 "message": {
                     "message_id": 1,
-                    "from": {
-                        ...
-                    },
+                    "from": {},
                     "chat": {
                         "id": -1001234567890,
                         "title": "Your Group Title",
