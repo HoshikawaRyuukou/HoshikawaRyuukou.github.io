@@ -1,15 +1,15 @@
 ---
 title: "GitHub - GitHub Actions"
-date: 2024-05-26 21:11:00
+date: 2024-06-22 21:11:00
 draft: true
 
 tags: ["GitHub", "Node.js"]
 ---
 
+## Guide
 - [GitHub Actions 文档](https://docs.github.com/zh/actions)
 
-
-## Github Actions
+## Case
 - remote: Write access to repository not granted.
 - repository -> Settings -> Actions -> General -> Workflow permissions 
 - Read and write permissions 選取
