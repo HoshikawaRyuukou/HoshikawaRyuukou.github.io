@@ -21,12 +21,6 @@ tags: ["Node.js", "JavaScript", "TypeScript"]
 ## Config
 - [@tsconfig/node20](https://www.npmjs.com/package/@tsconfig/node20) : Node 20 推薦 tsconfig.json
 
-## Command
-- npm pack : 以 `.tgz` 導出 package
-- npm install
-  - -g : 全局安裝
-  - -D : 等價於 --save-dev，套件添加到 package.json 的 devDependencies 
-
 ## Project Configure
 
 ```bash
