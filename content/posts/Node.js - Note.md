@@ -24,8 +24,9 @@ tags: ["Node.js"]
 ## Package manager
 - [為什麼 pnpm 比 npm 更快且更省空間？](https://www.explainthis.io/zh-hant/swe/why-is-pnpm-faster)
 
-## Terminal
+## CLI
 - [chalk](https://github.com/chalk/chalk)
+- [cli-table3](https://github.com/cli-table/cli-table3)
 
 ## Tools
 - [npm trends](https://npmtrends.com/)
