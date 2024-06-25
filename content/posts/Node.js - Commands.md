@@ -18,3 +18,12 @@ tags: ["Node.js"]
 | 速度                         | 較慢 (需要解析和更新 `package-lock.json`)  | 較快                       |
 | 一致性                       | 可能不同次安裝結果不同                     | 保證一致，每次安裝結果相同 |
 | **使用場景**                 | **開發環境**                               | **CI/CD 環境**             |
+
+### npm install args
+| args           | 作用                         |
+| -------------- | ---------------------------- |
+| -g, --global   | 全局安裝                     |
+| -D, --save-dev | 套件將添加到 devDependencies |
+
+## Package
+- npm pack : 以 `.tgz` 導出 package
