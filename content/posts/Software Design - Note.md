@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Sites"
+title: "Software Design - Note"
 date: 2023-01-02 21:05:00
 draft: false
 
-tags: ["Common Design"]
+tags: ["Software Design"]
 ---
 
 ## Blogs

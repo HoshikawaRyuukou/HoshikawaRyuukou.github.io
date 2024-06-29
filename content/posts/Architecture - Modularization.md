@@ -1,5 +1,5 @@
 ---
-title: "通用設計 - Architecture - Modularization"
+title: "Architecture - Modularization"
 date: 2023-02-22 21:21:00
 draft: false
 

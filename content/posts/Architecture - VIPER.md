@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Architecture - VIPER"
+title: "Architecture - VIPER"
 date: 2024-01-19 21:05:00
 draft: false
 
-tags: ["Common Design", "Architecture"]
+tags: ["Architecture"]
 ---
 
 ## 簡述

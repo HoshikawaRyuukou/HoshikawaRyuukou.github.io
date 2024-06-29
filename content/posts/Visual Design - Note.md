@@ -1,5 +1,5 @@
 ---
-title: "視覺設計 - 設計原則"
+title: "Visual Design - Note"
 date: 2023-03-02 21:05:00
 draft: false
 

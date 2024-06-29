@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Architecture - Presentation"
+title: "Architecture - Presentation"
 date: 2024-01-20 21:05:00
 draft: true
 
-tags: ["Common Design", "Architecture"]
+tags: ["Architecture"]
 ---
 
 

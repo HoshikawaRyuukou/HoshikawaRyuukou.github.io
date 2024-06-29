@@ -1,9 +1,9 @@
 ---
-title: "軟體設計 - Domain-Driven Design 初探"
+title: "Software Design - Domain-Driven Design 初探"
 date: 2022-12-15 20:05:00
 draft: false
 
-tags: ["Software Design", "DDD"]
+tags: ["Software Design"]
 ---
 必須先聲明筆者仍在學習中，以下屬個人觀點
 

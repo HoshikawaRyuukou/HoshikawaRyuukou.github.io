@@ -1,5 +1,5 @@
 ---
-title: "通用設計 - Architecture - Clean Architecture"
+title: "Architecture - Clean Architecture"
 date: 2023-02-04 20:03:00
 draft: false
 
