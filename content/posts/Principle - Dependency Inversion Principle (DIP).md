@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Principle - Dependency Inversion Principle (DIP)"
+title: "Principle - Dependency Inversion Principle (DIP)"
 date: 2022-11-15 20:05:00
 draft: false
 
-tags: ["Common Design", "Principle"]
+tags: ["Principle"]
 ---
 
 依賴倒置原則 Dependency Inversion Principle，以下皆簡稱 DIP。

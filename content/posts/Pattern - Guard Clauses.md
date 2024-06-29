@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Pattern - Guard Clauses"
+title: "Pattern - Guard Clauses"
 date: 2023-01-10 21:05:00
 draft: false
 
-tags: ["Common Design", "Pattern"]
+tags: ["Pattern"]
 ---
 
 ## 目的

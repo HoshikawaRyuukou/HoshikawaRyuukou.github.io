@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Pattern - Data Transfer Object (DTO)"
+title: "Pattern - Data Transfer Object (DTO)"
 date: 2022-12-11 21:11:00
 draft: false
 
-tags: ["Common Design", "Pattern"]
+tags: ["Pattern"]
 ---
 
 ## 什麼是 DTO？

@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Pattern - Model View Presenter (MVP)"
+title: "Pattern - Model View Presenter (MVP)"
 date: 2022-12-10 20:05:00
 draft: false
 
-tags: ["Common Design", "Pattern"]
+tags: ["Pattern"]
 ---
 
 ## 前述

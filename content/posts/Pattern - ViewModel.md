@@ -1,9 +1,9 @@
 ---
-title: "通用設計 - Pattern - ViewModel"
+title: "Pattern - ViewModel"
 date: 2023-08-27 20:05:00
 draft: false
 
-tags: ["Common Design", "Pattern"]
+tags: ["Pattern"]
 ---
 
 ## 前述
